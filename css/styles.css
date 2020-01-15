@@ -11,8 +11,10 @@ h2 {
 
 p {
   color: gray;
+  font-family: sans-serif;
 }
 
 body {
   background-color: skyblue;
 }
+
